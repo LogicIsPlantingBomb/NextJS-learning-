@@ -1,5 +1,5 @@
 # fedd
-
+(Still learning...)
 ## Overview
 This project is a Next.js application with TypeScript, integrating authentication, database connectivity, email verification, and API handling. It follows a modular structure for better maintainability and scalability.
 
